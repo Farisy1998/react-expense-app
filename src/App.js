@@ -40,11 +40,15 @@ const App = () => {
 // The above code is doing similar functionality as same as the below code,
 // it is equvalent to it.
 
+  const addExpenseDataHandler = (expense) => {
+    console.log('In App.js');
+    console.log(expense);
+  };
 
   return (
     <div>
       <h2>Let's get started!</h2>
-      <NewExpense />
+      <NewExpense onAddExpense={addExpenseDataHandler} />
       <Expenses items = {expenses}/>
     </div>
   );
