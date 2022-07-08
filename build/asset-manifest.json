@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Farisy1998/react-nutsandspices-app/static/css/main.c49cbd11.chunk.css",
+    "main.js": "/Farisy1998/react-nutsandspices-app/static/js/main.c3718358.chunk.js",
+    "main.js.map": "/Farisy1998/react-nutsandspices-app/static/js/main.c3718358.chunk.js.map",
+    "runtime-main.js": "/Farisy1998/react-nutsandspices-app/static/js/runtime-main.8fd1ef9f.js",
+    "runtime-main.js.map": "/Farisy1998/react-nutsandspices-app/static/js/runtime-main.8fd1ef9f.js.map",
+    "static/js/2.fc9f3e8e.chunk.js": "/Farisy1998/react-nutsandspices-app/static/js/2.fc9f3e8e.chunk.js",
+    "static/js/2.fc9f3e8e.chunk.js.map": "/Farisy1998/react-nutsandspices-app/static/js/2.fc9f3e8e.chunk.js.map",
+    "index.html": "/Farisy1998/react-nutsandspices-app/index.html",
+    "static/css/main.c49cbd11.chunk.css.map": "/Farisy1998/react-nutsandspices-app/static/css/main.c49cbd11.chunk.css.map",
+    "static/js/2.fc9f3e8e.chunk.js.LICENSE.txt": "/Farisy1998/react-nutsandspices-app/static/js/2.fc9f3e8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd1ef9f.js",
+    "static/js/2.fc9f3e8e.chunk.js",
+    "static/css/main.c49cbd11.chunk.css",
+    "static/js/main.c3718358.chunk.js"
+  ]
+}
